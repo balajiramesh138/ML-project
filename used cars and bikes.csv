@@ -1,0 +1,81 @@
+vehicle_type,name,year,odometer,fuel,owner,selling_price
+bike,bajaj pulsar 220cc,2016,36922,petrol,FirstOwner,44400
+car,Maruti 800 AC,2007,70000,petrol,FirstOwner,60000
+bike,bajaj avenger 220cc,2013,30000,petrol,FirstOwner,45000
+car,Maruti Wagon R LXI Minor,2007,50000,petrol,FirstOwner,135000
+bike,yamaha fz25 250cc,2017,10000,petrol,SecondOwner,71000
+car,Hyundai Verna 1.6 SX,2012,100000,Diesel,FirstOwner,600000
+bike,yamaha fz v2.0 150cc,2016,15366,petrol,FirstOwner,56000
+car,Datsun RediGO T Option,2017,46000,petrol,FirstOwner,250000
+bike,honda x blade 160cc,2019,9100,petrol,FirstOwner,81200
+car,Honda Amaze VX i-DTEC,2014,141000,Diesel,SecondOwner,450000
+bike,ktm rc 390cc,2015,37000,petrol,FirstOwner,98000
+car,Maruti Alto LX BSIII,2007,125000,petrol,FirstOwner,140000
+bike,bajaj pulsarns200,2018,11574,petrol,FirstOwner,88000
+car,Hyundai Xcent 1.2 Kappa S,2016,25000,petrol,FirstOwner,550000
+bike,yamaha fZs,2015,19073,petrol,FirstOwner,46000
+car,Tata Indigo Grand Petrol,2014,60000,petrol,SecondOwner,240000
+bike,royal enfield classic ,2018,13700,petrol,FirstOwner,150000
+car,Hyundai Creta 1.6 VTVT S,2015,25000,petrol,FirstOwner,850000
+bike,bajaj avenger 220cc,2015,24294,petrol,SecondOwner,29000
+car,Maruti Celerio Green VXI,2017,78000,petrol,FirstOwner,365000
+bike,royal enfield thunderbird 350cc,2014,43500,petrol,FirstOwner,71800
+car,Chevrolet Sail 1.2 Base,2015,35000,petrol,FirstOwner,260000
+bike,suzuki intruder 150cc,2018,17000,petrol,FirstOwner,79400
+car,Tata Indigo Grand Petrol,2014,100000,petrol,FirstOwner,250000
+bike,royal enfiels classic 350cc,2018,12348,petrol,FirstOwner,140000
+car,Toyota Corolla Altis 1.8 VL CVT,2018,25000,petrol,FirstOwner,1650000
+bike,suzuki gixxer sf 150,2016,24725,petrol,FirstOwner,48000
+car,Maruti 800 AC,2007,70000,petrol,FirstOwner,60000
+bike,hero passion pro2014,2014,24400,petrol,FirstOwner,21000
+car,Maruti Wagon R LXI Minor,2007,50000,petrol,FirstOwner,135000
+bike,honda cbr 150r,2015,21000,petrol,FirstOwner,100000
+car,Hyundai Verna 1.6 SX,2012,100000,Diesel,FirstOwner,600000
+bike,tvs apache rtr 200 4v,2017,26000,petrol,FirstOwner,78500
+car,Datsun RediGO T Option,2017,46000,petrol,FirstOwner,250000
+bike,yamaha yzf-r15,2019,7000,petrol,FirstOwner,123100
+car,Honda Amaze VX i-DTEC,2014,141000,Diesel,SecondOwner,450000
+bike,bajaj platina 100cc,2015,15000,petrol,FirstOwner,24500
+car,Maruti Alto LX BSIII,2007,125000,petrol,FirstOwner,140000
+bike,bajaj pulsar 150,2013,19000,petrol,FirstOwner,50000
+car,Hyundai Xcent 1.2 Kappa S,2016,25000,petrol,FirstOwner,550000
+bike,tvs apache rtr 160 4v,2018,14000,petrol,FirstOwner,55900
+car,Tata Indigo Grand Petrol,2014,60000,petrol,SecondOwner,240000
+bike,yamaha fzs 150cc,2011,49562,petrol,FirstOwner,43000
+car,Hyundai Creta 1.6 VTVT S,2015,25000,petrol,FirstOwner,850000
+bike,royal enfield thunderbird 350cc,2015,15750,petrol,FirstOwner,105000
+car,Maruti Celerio Green VXI,2017,78000,petrol,FirstOwner,365000
+bike,bajaj pulsar rs200,2018,6200,petrol,FirstOwner,125000
+car,Chevrolet Sail 1.2 Base,2015,35000,petrol,FirstOwner,260000
+bike,bajaj pulsar 135ls,2012,31464,petrol,SecondOwner,31000
+car,Tata Indigo Grand Petrol,2014,100000,petrol,FirstOwner,250000
+bike,honda cb unicorn,2015,20000,petrol,FirstOwner,55000
+car,Toyota Corolla Altis 1.8 VL CVT,2018,25000,petrol,FirstOwner,1650000
+bike,bajaj avenger cruise,2015,10000,petrol,SecondOwner,69000
+car,Maruti Ciaz VXi Plus,2015,24000,petrol,FirstOwner,585000
+bike,bajaj pulsar 220cc,2015,66000,petrol,FirstOwner,41400
+car,Hyundai Venue SX Opt Diesel,2019,5000,Diesel,FirstOwner,1195000
+bike,yamaha yzf-r15,2017,15000,petrol,FirstOwner,75200
+car,Chevrolet Enjoy TCDi LTZ 7 Seater,2013,33000,Diesel,SecondOwner,390000
+bike,honda cb shine,2014,28000,petrol,FirstOwner,30000
+car,Jaguar XF 2.2 Litre Luxury,2014,28000,Diesel,FirstOwner,1945999
+bike,,2015,25000,petrol,FirstOwner,35000
+car,,2016,18000,Diesel,SecondOwner,650000
+car,,2012,35000,Diesel,SecondOwner,589000
+bike,,2015,15000,petrol,FirstOwner,89000
+car,,2017,26000,petrol,FirstOwner,687000
+bike,,2014,30000,petrol,SecondOwner,65000
+bike,,2016,18000,petrol,SecondOwner,79000
+bike,,2012,37000,petrol,FirstOwner,50000
+car,,2014,35000,Diesel,SecondOwner,490000
+car,,2018,18000,Diesel,FirstOwner,790000
+bike,,2018,8000,petrol,FirstOwner,110000
+car,,2016,18000,petrol,FirstOwner,678000
+bike,,2017,15000,petrol,FirstOwner,95000
+car,,2012,39000,Diesel,SecondOwner,510000
+bike,,2016,40000,petrol,SecondOwner,50000
+car,,2015,23000,Diesel,FirstOwner,643000
+bike,,2013,38000,petrol,SecondOwner,61000
+bike,,2016,12000,petrol,FirstOwner,89000
+car,,2017,17999,petrol,FirstOwner,810000
+bike,,2013,40000,petrol,SecondOwner,45000
