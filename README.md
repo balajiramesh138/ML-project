@@ -1,2 +1,2 @@
-# ML-projects
+# Tequed Labs pvt ltd capstone project
 
